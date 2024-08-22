@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../OneDrive/Documents/SVGS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Project1",
+		"liveServer.settings.port": 5501
+	}
+}

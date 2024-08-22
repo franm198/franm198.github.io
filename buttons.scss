@@ -8,6 +8,11 @@
     padding-right: 5%;
 }
 
+a:-webkit-any-link {
+    text-decoration: none;
+    color: black;
+}
+
 // Portfolio
 
 .project-code-tags {
